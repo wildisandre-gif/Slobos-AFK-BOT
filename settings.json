@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "zonacreft.seedloaf.gg",
+    "port": 52022,
+    "version": "62.2"
   },
   "position": {
     "enabled": true,
